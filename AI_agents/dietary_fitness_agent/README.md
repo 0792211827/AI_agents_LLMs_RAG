@@ -13,23 +13,20 @@ The AI dietary & fitness planner is a Streamlit-based web application that provi
 ## How to run 
 
 #### 1️⃣ Clone the Repository
-'''
-   bash
+```bash
    git clone https://github.com/0792211827/AI_agents_LLMs_RAG.git
-   cd  cd AI_agents/dietary_fitness_agent
-'''
+   cd AI_agents/dietary_fitness_agent
+```
 #### 2️⃣  Install Dependencies
-'''
-   bash 
+```bash 
    pip install -r requirements.txt
-''' 
+``` 
 
 #### 3️⃣ Run the Application
-''' 
-   bash 
+``` bash 
    streamlit run health.py
-'''
+```
 
 #### 🔑 API Key Configuration
-Get a Google Gemini API Key from Google AI Studio.
-Enter the API key in the sidebar of the Streamlit app.
+* Get a Google Gemini API Key from [Google AI Studio](https://aistudio.google.com/apikey).
+* Enter the API key in the sidebar of the Streamlit app.
