@@ -71,6 +71,8 @@ def display_fitness_plan(plan_content):
             for tip in tips:
                 if tip.strip():
                     st.info(tip)
+                    
+                    
 
 def main():
     if 'dietary_plan' not in st.session_state:
