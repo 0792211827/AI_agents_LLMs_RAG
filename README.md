@@ -18,7 +18,7 @@ The repository is organized into three main directories:
 
 ---
 
-### 🧠 Topics Covered
+###  Topics Covered
 
 - 🔁 Tool-using Agents
 - 🧾 Prompt Engineering and Few-shot Learning
@@ -27,7 +27,7 @@ The repository is organized into three main directories:
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - Python, Streamlit
 - LangChain, LlamaIndex, Transformers
@@ -36,13 +36,13 @@ The repository is organized into three main directories:
 
 ---
 
-### 🚀 Getting Started
+### Getting Started
 
 1. Clone the repo:
-   ```bash
-      git clone https://github.com/0792211827/AI_agents_LLMs_RAG.git
-      cd AI_agents_LLMs_RAG
-   ```
+```bash
+   git clone https://github.com/0792211827/AI_agents_LLMs_RAG.git
+   cd AI_agents_LLMs_RAG
+```
 
 2. Create a Virtual Environment
 ```bash
@@ -52,14 +52,16 @@ The repository is organized into three main directories:
 
 3. Navigate to the desired directory (AI_Agents, LLMs, or RAGs) and follow the specific README instructions.
 
+
 4. Ensure you have the necessary dependencies installed (e.g., Python 3.10+, Transformers, etc.). Refer to individual project READMEs for details.
 
+
 5. Make sure .env includes your keys:
-   ```bash
-      PINECONE_API_KEY=...
-      OPENAI_API_KEY=...
-      GEMINI_API_KEY=...
-  ```
+```bash
+   PINECONE_API_KEY=...
+   OPENAI_API_KEY=...
+   GEMINI_API_KEY=...
+```
 
 ---
 
